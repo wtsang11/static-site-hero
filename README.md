@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # static-site-hero README
 
 This is the README for your extension "static-site-hero". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,7 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# static-site-hero
+Helps with writing posts for static site generator.
+>>>>>>> 563b25212977b0ff182f71c3d6ec6a4a9207d2a0
